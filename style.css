@@ -1,0 +1,26 @@
+body {
+    font-family: Textura Libera;
+    background-color: #FFF500;
+}
+h1 {
+    text-align: center;
+    color: #C88D0A;
+    font-family: Textura Libera;
+   
+}
+p {
+    font-size: 24px;
+    font-family: Textura Libera;
+    color: #C88D0A;
+}
+a p {
+   color: #C88D0A; 
+   font-size: 64px;
+   text-align: center;
+   font-family: Textura Libera;
+
+}
+a{
+   text-decoration: none;
+   font-family: Textura Libera;
+}
