@@ -1,26 +1,47 @@
-body {
-    font-family: Textura Libera;
-    background-color: #FFF500;
+.im1 {
+    max-width: 100%; height: auto;
 }
-h1 {
-    text-align: center;
-    color: #C88D0A;
-    font-family: Textura Libera;
-   
+header {
+    background: url('https://i.postimg.cc/hXZVFjPg/Opera-2024-04-02-164840-cebb6681-97c2-45e0-bca8-c7e70f077465-jfif.png') no-repeat center center fixed;
+    background-size:auto;
 }
-p {
-    font-size: 24px;
-    font-family: Textura Libera;
-    color: #C88D0A;
+.vid1 {
+    max-width: 100%; height: 600px;
 }
-a p {
-   color: #C88D0A; 
-   font-size: 64px;
-   text-align: center;
-   font-family: Textura Libera;
-
+#Im {
+    border-style: double;
+    border-radius: 13px;
+    padding-top: 5px;
 }
-a{
-   text-decoration: none;
-   font-family: Textura Libera;
+#youtube {
+    border-style: double;
+    border-radius: 13px;
+    padding-top: 5px;
+}
+#site {
+    border-style: double;
+    border-radius: 13px;
+    padding-top: 5px;
+}
+#mods {
+    border-style: double;
+    border-radius: 13px;
+    padding-top: 5px;
+}
+.MyCh {
+    background-color: lawngreen;
+    border-radius: 15px;
+    border-style: dotted;
+    border-color: green;
+    transition: 0.5s;
+    text-decoration: none;
+    
+}
+.MyCh:hover {
+    background-color: greenyellow;
+    border-radius: 15px;
+    border-style: dotted;
+    border-color: lawngreen;
+    transition: 0.5s;
+    text-decoration: none;
 }
